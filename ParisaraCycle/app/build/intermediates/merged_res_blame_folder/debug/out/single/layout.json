@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "com.parisara.cycle.app-mergeDebugResources-65:/layout/activity_splash.xml",
+        "source": "com.parisara.cycle.app-main-68:/layout/activity_splash.xml"
+    },
+    {
+        "merged": "com.parisara.cycle.app-mergeDebugResources-65:/layout/activity_main.xml",
+        "source": "com.parisara.cycle.app-main-68:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.parisara.cycle.app-mergeDebugResources-65:/layout/fragment_buddy.xml",
+        "source": "com.parisara.cycle.app-main-68:/layout/fragment_buddy.xml"
+    },
+    {
+        "merged": "com.parisara.cycle.app-mergeDebugResources-65:/layout/fragment_report.xml",
+        "source": "com.parisara.cycle.app-main-68:/layout/fragment_report.xml"
+    },
+    {
+        "merged": "com.parisara.cycle.app-mergeDebugResources-65:/layout/item_buddy.xml",
+        "source": "com.parisara.cycle.app-main-68:/layout/item_buddy.xml"
+    },
+    {
+        "merged": "com.parisara.cycle.app-mergeDebugResources-65:/layout/fragment_home.xml",
+        "source": "com.parisara.cycle.app-main-68:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "com.parisara.cycle.app-mergeDebugResources-65:/layout/fragment_map.xml",
+        "source": "com.parisara.cycle.app-main-68:/layout/fragment_map.xml"
+    },
+    {
+        "merged": "com.parisara.cycle.app-mergeDebugResources-65:/layout/fragment_stats.xml",
+        "source": "com.parisara.cycle.app-main-68:/layout/fragment_stats.xml"
+    }
+]

@@ -1,0 +1,35 @@
+{
+  "_INSTRUCTIONS": "REPLACE THIS FILE with your actual google-services.json from Firebase Console",
+  "_STEPS": [
+    "1. Go to https://console.firebase.google.com",
+    "2. Create a project named 'ParisaraCycle'",
+    "3. Add Android app with package name: com.parisara.cycle",
+    "4. Download google-services.json and place it here (app/ folder)",
+    "5. Enable Realtime Database in Firebase Console",
+    "6. Enable Anonymous Auth in Firebase Console",
+    "7. Get a Google Maps API key from https://console.cloud.google.com",
+    "8. In app/build.gradle replace YOUR_GOOGLE_MAPS_API_KEY_HERE with your key"
+  ],
+  "project_info": {
+    "project_number": "YOUR_PROJECT_NUMBER",
+    "project_id": "parisara-cycle",
+    "storage_bucket": "parisara-cycle.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "YOUR_APP_ID",
+        "android_client_info": {
+          "package_name": "com.parisara.cycle"
+        }
+      },
+      "api_key": [{"current_key": "YOUR_FIREBASE_API_KEY"}],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/homeFragment"
+        android:icon="@drawable/ic_home"
+        android:title="Home" />
+
+    <item
+        android:id="@+id/mapFragment"
+        android:icon="@drawable/ic_map"
+        android:title="Safe Map" />
+
+    <item
+        android:id="@+id/buddyFragment"
+        android:icon="@drawable/ic_people"
+        android:title="Buddy" />
+
+    <item
+        android:id="@+id/statsFragment"
+        android:icon="@drawable/ic_leaf"
+        android:title="Eco Stats" />
+
+    <item
+        android:id="@+id/reportFragment"
+        android:icon="@drawable/ic_warning"
+        android:title="Report" />
+
+</menu>

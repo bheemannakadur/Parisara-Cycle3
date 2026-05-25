@@ -1,0 +1,69 @@
+com.parisara.cycle.app-jetified-activity-ktx-1.8.2-0 C:\Users\Administrator\.gradle\caches\transforms-3\01cff3ea96a9af8c999eab63cfcd368e\transformed\jetified-activity-ktx-1.8.2\res
+com.parisara.cycle.app-room-runtime-2.6.1-1 C:\Users\Administrator\.gradle\caches\transforms-3\01d645332b1047c72f66e3f08811bfad\transformed\room-runtime-2.6.1\res
+com.parisara.cycle.app-jetified-profileinstaller-1.3.0-2 C:\Users\Administrator\.gradle\caches\transforms-3\04a7ed247c7f0a417934ef6a84bb8109\transformed\jetified-profileinstaller-1.3.0\res
+com.parisara.cycle.app-jetified-android-maps-utils-3.4.0-3 C:\Users\Administrator\.gradle\caches\transforms-3\05028e4b713fd4d177a1155d859266c8\transformed\jetified-android-maps-utils-3.4.0\res
+com.parisara.cycle.app-material-1.11.0-4 C:\Users\Administrator\.gradle\caches\transforms-3\07416657a4420c87693038144e878289\transformed\material-1.11.0\res
+com.parisara.cycle.app-jetified-lifecycle-process-2.6.2-5 C:\Users\Administrator\.gradle\caches\transforms-3\0af40c28e0b3ab7508c0b7f9efb35701\transformed\jetified-lifecycle-process-2.6.2\res
+com.parisara.cycle.app-jetified-appcompat-resources-1.6.1-6 C:\Users\Administrator\.gradle\caches\transforms-3\0c188ceebbf93f76add2b55b41b4b75d\transformed\jetified-appcompat-resources-1.6.1\res
+com.parisara.cycle.app-jetified-window-1.0.0-7 C:\Users\Administrator\.gradle\caches\transforms-3\0f28d9b342fc06b84b4f57d746e56ab1\transformed\jetified-window-1.0.0\res
+com.parisara.cycle.app-sqlite-framework-2.4.0-8 C:\Users\Administrator\.gradle\caches\transforms-3\10428dcc65ee366fd37ab9120cc22d60\transformed\sqlite-framework-2.4.0\res
+com.parisara.cycle.app-jetified-play-services-basement-18.1.0-9 C:\Users\Administrator\.gradle\caches\transforms-3\11898f04bca58a2d3f37c82076836b75\transformed\jetified-play-services-basement-18.1.0\res
+com.parisara.cycle.app-jetified-firebase-common-20.4.2-10 C:\Users\Administrator\.gradle\caches\transforms-3\1285f24bde11f37429916b12fb100aba\transformed\jetified-firebase-common-20.4.2\res
+com.parisara.cycle.app-jetified-play-services-maps-18.2.0-11 C:\Users\Administrator\.gradle\caches\transforms-3\170aa9df4ff9542de0c3f303482a93a2\transformed\jetified-play-services-maps-18.2.0\res
+com.parisara.cycle.app-drawerlayout-1.1.1-12 C:\Users\Administrator\.gradle\caches\transforms-3\1ab17254272f56d85e3e37ca9db817a0\transformed\drawerlayout-1.1.1\res
+com.parisara.cycle.app-navigation-common-2.7.5-13 C:\Users\Administrator\.gradle\caches\transforms-3\24ad2c1795b97d2edbb425f606eb34af\transformed\navigation-common-2.7.5\res
+com.parisara.cycle.app-jetified-emoji2-views-helper-1.2.0-14 C:\Users\Administrator\.gradle\caches\transforms-3\2836ec0fcde15f89d384a832978383d7\transformed\jetified-emoji2-views-helper-1.2.0\res
+com.parisara.cycle.app-navigation-fragment-2.7.5-15 C:\Users\Administrator\.gradle\caches\transforms-3\3159061e99be594dc00be0488fa45b0e\transformed\navigation-fragment-2.7.5\res
+com.parisara.cycle.app-jetified-activity-1.8.2-16 C:\Users\Administrator\.gradle\caches\transforms-3\33528d8f9f6b208d55b6cff2ec3e7b8d\transformed\jetified-activity-1.8.2\res
+com.parisara.cycle.app-cardview-1.0.0-17 C:\Users\Administrator\.gradle\caches\transforms-3\35ac758daf57d8419e9c6641da3fb09d\transformed\cardview-1.0.0\res
+com.parisara.cycle.app-lifecycle-livedata-core-2.6.2-18 C:\Users\Administrator\.gradle\caches\transforms-3\3a16f5b7b1c678491af3c2bf247ebc9c\transformed\lifecycle-livedata-core-2.6.2\res
+com.parisara.cycle.app-jetified-room-ktx-2.6.1-19 C:\Users\Administrator\.gradle\caches\transforms-3\3c50dd3671ab20f8cf02f8e882bb7edc\transformed\jetified-room-ktx-2.6.1\res
+com.parisara.cycle.app-constraintlayout-2.1.4-20 C:\Users\Administrator\.gradle\caches\transforms-3\41f650f2a2a25c84877a5d1d5dd0730e\transformed\constraintlayout-2.1.4\res
+com.parisara.cycle.app-databinding-runtime-8.1.4-21 C:\Users\Administrator\.gradle\caches\transforms-3\462db79e1138e88b5d15d2132ad1431c\transformed\databinding-runtime-8.1.4\res
+com.parisara.cycle.app-lifecycle-viewmodel-2.6.2-22 C:\Users\Administrator\.gradle\caches\transforms-3\47cb23af5f99dadd404985277e56d1d6\transformed\lifecycle-viewmodel-2.6.2\res
+com.parisara.cycle.app-jetified-savedstate-ktx-1.2.1-23 C:\Users\Administrator\.gradle\caches\transforms-3\4eb72280736e674fa0f5ae8f4e18acd4\transformed\jetified-savedstate-ktx-1.2.1\res
+com.parisara.cycle.app-coordinatorlayout-1.1.0-24 C:\Users\Administrator\.gradle\caches\transforms-3\54a6cd81c69844a56864d880d0316bfd\transformed\coordinatorlayout-1.1.0\res
+com.parisara.cycle.app-jetified-core-ktx-1.12.0-25 C:\Users\Administrator\.gradle\caches\transforms-3\55e1d8cf0469d605167ac2740061b5ef\transformed\jetified-core-ktx-1.12.0\res
+com.parisara.cycle.app-swiperefreshlayout-1.1.0-26 C:\Users\Administrator\.gradle\caches\transforms-3\5a53d630804d3a7848ea47d5f95e75f8\transformed\swiperefreshlayout-1.1.0\res
+com.parisara.cycle.app-jetified-savedstate-1.2.1-27 C:\Users\Administrator\.gradle\caches\transforms-3\5bdcb6f6acb59869c021364cf0327f59\transformed\jetified-savedstate-1.2.1\res
+com.parisara.cycle.app-jetified-viewpager2-1.1.0-beta02-28 C:\Users\Administrator\.gradle\caches\transforms-3\64b200355450fd1acf8a35299c4403fd\transformed\jetified-viewpager2-1.1.0-beta02\res
+com.parisara.cycle.app-core-1.12.0-29 C:\Users\Administrator\.gradle\caches\transforms-3\671225efa06a1533a2b19b5586b6398c\transformed\core-1.12.0\res
+com.parisara.cycle.app-jetified-glide-4.16.0-30 C:\Users\Administrator\.gradle\caches\transforms-3\68bc4ffd591d469c2a19409cdb20e1f4\transformed\jetified-glide-4.16.0\res
+com.parisara.cycle.app-navigation-runtime-ktx-2.7.5-31 C:\Users\Administrator\.gradle\caches\transforms-3\6ccdd86f69adc0f4962d412f59348417\transformed\navigation-runtime-ktx-2.7.5\res
+com.parisara.cycle.app-appcompat-1.6.1-32 C:\Users\Administrator\.gradle\caches\transforms-3\74663d8a1aa2b715c31738e05bb8ed10\transformed\appcompat-1.6.1\res
+com.parisara.cycle.app-jetified-startup-runtime-1.1.1-33 C:\Users\Administrator\.gradle\caches\transforms-3\7aee90a68ba762957c0b5dcc7e529bb9\transformed\jetified-startup-runtime-1.1.1\res
+com.parisara.cycle.app-jetified-lottie-6.3.0-34 C:\Users\Administrator\.gradle\caches\transforms-3\7e003022fc83165ab85579ae782f1aa2\transformed\jetified-lottie-6.3.0\res
+com.parisara.cycle.app-jetified-lifecycle-service-2.6.2-35 C:\Users\Administrator\.gradle\caches\transforms-3\800d6cc0b50d84024172cfdaf39b470f\transformed\jetified-lifecycle-service-2.6.2\res
+com.parisara.cycle.app-jetified-customview-poolingcontainer-1.0.0-36 C:\Users\Administrator\.gradle\caches\transforms-3\8c5ee528a399086e4f82b21d9730a057\transformed\jetified-customview-poolingcontainer-1.0.0\res
+com.parisara.cycle.app-slidingpanelayout-1.2.0-37 C:\Users\Administrator\.gradle\caches\transforms-3\8df2eedb1f3f5e9d19f16696ae868174\transformed\slidingpanelayout-1.2.0\res
+com.parisara.cycle.app-lifecycle-livedata-2.6.2-38 C:\Users\Administrator\.gradle\caches\transforms-3\8ecb3275459af2451e3b794dd72988ab\transformed\lifecycle-livedata-2.6.2\res
+com.parisara.cycle.app-navigation-ui-ktx-2.7.5-39 C:\Users\Administrator\.gradle\caches\transforms-3\a186316635b7943f85dd6f572fda9438\transformed\navigation-ui-ktx-2.7.5\res
+com.parisara.cycle.app-jetified-lifecycle-runtime-ktx-2.6.2-40 C:\Users\Administrator\.gradle\caches\transforms-3\a452d351d6e12f021b787572ad07918b\transformed\jetified-lifecycle-runtime-ktx-2.6.2\res
+com.parisara.cycle.app-jetified-lifecycle-livedata-ktx-2.6.2-41 C:\Users\Administrator\.gradle\caches\transforms-3\a6e8de3d96643fc617cd856b21cffec3\transformed\jetified-lifecycle-livedata-ktx-2.6.2\res
+com.parisara.cycle.app-navigation-fragment-ktx-2.7.5-42 C:\Users\Administrator\.gradle\caches\transforms-3\a7d40127f32f7ab05814d0ea6c825f71\transformed\navigation-fragment-ktx-2.7.5\res
+com.parisara.cycle.app-jetified-emoji2-1.2.0-43 C:\Users\Administrator\.gradle\caches\transforms-3\a82ce2439d295759df0ea6fd2b14ecc5\transformed\jetified-emoji2-1.2.0\res
+com.parisara.cycle.app-core-runtime-2.2.0-44 C:\Users\Administrator\.gradle\caches\transforms-3\aa2bb0c0d816693867a4147aea32277e\transformed\core-runtime-2.2.0\res
+com.parisara.cycle.app-lifecycle-runtime-2.6.2-45 C:\Users\Administrator\.gradle\caches\transforms-3\ac97c7352076d734e3a36956d71f5f2d\transformed\lifecycle-runtime-2.6.2\res
+com.parisara.cycle.app-jetified-lifecycle-livedata-core-ktx-2.6.2-46 C:\Users\Administrator\.gradle\caches\transforms-3\acf99ed0232e6b4cd83544b414f8eb03\transformed\jetified-lifecycle-livedata-core-ktx-2.6.2\res
+com.parisara.cycle.app-jetified-lifecycle-viewmodel-savedstate-2.6.2-47 C:\Users\Administrator\.gradle\caches\transforms-3\c1b9641be36ffdb2a01bef3f30d522b6\transformed\jetified-lifecycle-viewmodel-savedstate-2.6.2\res
+com.parisara.cycle.app-transition-1.4.1-48 C:\Users\Administrator\.gradle\caches\transforms-3\c50b9572645f80cff2670d09a15450cb\transformed\transition-1.4.1\res
+com.parisara.cycle.app-jetified-annotation-experimental-1.3.0-49 C:\Users\Administrator\.gradle\caches\transforms-3\c652be7d831dc4aa000cfc944908c8c2\transformed\jetified-annotation-experimental-1.3.0\res
+com.parisara.cycle.app-jetified-fragment-ktx-1.6.2-50 C:\Users\Administrator\.gradle\caches\transforms-3\c93e2f1b892abebaf282a32283ba5a36\transformed\jetified-fragment-ktx-1.6.2\res
+com.parisara.cycle.app-sqlite-2.4.0-51 C:\Users\Administrator\.gradle\caches\transforms-3\cc60f6c72efa7a26d49987cff81377b5\transformed\sqlite-2.4.0\res
+com.parisara.cycle.app-navigation-ui-2.7.5-52 C:\Users\Administrator\.gradle\caches\transforms-3\cf403c9af0a73d33f0f757f5c720883b\transformed\navigation-ui-2.7.5\res
+com.parisara.cycle.app-navigation-runtime-2.7.5-53 C:\Users\Administrator\.gradle\caches\transforms-3\cf436ed6f54a8f1e9f9e58fb524fab57\transformed\navigation-runtime-2.7.5\res
+com.parisara.cycle.app-fragment-1.6.2-54 C:\Users\Administrator\.gradle\caches\transforms-3\d3e10466ce4c8816c0f689202f3f5e85\transformed\fragment-1.6.2\res
+com.parisara.cycle.app-navigation-common-ktx-2.7.5-55 C:\Users\Administrator\.gradle\caches\transforms-3\d6d00779d3dc6e251146992f0135ac90\transformed\navigation-common-ktx-2.7.5\res
+com.parisara.cycle.app-browser-1.4.0-56 C:\Users\Administrator\.gradle\caches\transforms-3\d93e5d720cb08200e9f31df35332f2e2\transformed\browser-1.4.0\res
+com.parisara.cycle.app-databinding-adapters-8.1.4-57 C:\Users\Administrator\.gradle\caches\transforms-3\e507d2db276cf730a0f8428b6bf61d88\transformed\databinding-adapters-8.1.4\res
+com.parisara.cycle.app-jetified-play-services-base-18.1.0-58 C:\Users\Administrator\.gradle\caches\transforms-3\e954f2cff815b43cc4a73570a0714a2e\transformed\jetified-play-services-base-18.1.0\res
+com.parisara.cycle.app-jetified-lifecycle-viewmodel-ktx-2.6.2-59 C:\Users\Administrator\.gradle\caches\transforms-3\f8f6de05c66b707049a5f061729420d9\transformed\jetified-lifecycle-viewmodel-ktx-2.6.2\res
+com.parisara.cycle.app-recyclerview-1.3.2-60 C:\Users\Administrator\.gradle\caches\transforms-3\fff3ef2331f1171a129c1356b4223541\transformed\recyclerview-1.3.2\res
+com.parisara.cycle.app-pngs-61 C:\Users\Administrator\Desktop\New folder\ParisaraCycle\app\build\generated\res\pngs\debug
+com.parisara.cycle.app-res-62 C:\Users\Administrator\Desktop\New folder\ParisaraCycle\app\build\generated\res\processDebugGoogleServices
+com.parisara.cycle.app-resValues-63 C:\Users\Administrator\Desktop\New folder\ParisaraCycle\app\build\generated\res\resValues\debug
+com.parisara.cycle.app-packageDebugResources-64 C:\Users\Administrator\Desktop\New folder\ParisaraCycle\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.parisara.cycle.app-packageDebugResources-65 C:\Users\Administrator\Desktop\New folder\ParisaraCycle\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.parisara.cycle.app-merged_res-66 C:\Users\Administrator\Desktop\New folder\ParisaraCycle\app\build\intermediates\merged_res\debug
+com.parisara.cycle.app-debug-67 C:\Users\Administrator\Desktop\New folder\ParisaraCycle\app\src\debug\res
+com.parisara.cycle.app-main-68 C:\Users\Administrator\Desktop\New folder\ParisaraCycle\app\src\main\res
